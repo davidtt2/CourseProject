@@ -1,0 +1,133 @@
+{
+    "length": 16,
+    "data": [
+        [
+            "Alphabet",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Alphabet_Inc_Logo_2015.svg/220px-Alphabet_Inc_Logo_2015.svg.png",
+            "October 2, 2015",
+            "Larry Page, Sergey Brin",
+            "Googleplex, Mountain View, California, U.S.",
+            "abc.xyz"
+        ],
+        [
+            "Apple",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/80px-Apple_logo_black.svg.png",
+            "April 1, 1976",
+            "Steve Jobs, Steve Wozniak, Ronald Wayne",
+            "1 Apple Park Way, Cupertino, California, U.S.",
+            "www.apple.com"
+        ],
+        [
+            "Dell Technologies",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dell_Technologies_logo.svg/220px-Dell_Technologies_logo.svg.png",
+            "September 7, 2016",
+            "Michael Dell",
+            "One Dell Way, Round Rock, Texas, U.S.",
+            "delltechnologies.com"
+        ],
+        [
+            "Facebook",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Facebook%2C_Inc._Logo_2019.svg/220px-Facebook%2C_Inc._Logo_2019.svg.png",
+            "February 4, 2004",
+            "Mark Zuckerberg, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz",
+            "Menlo Park, California, U.S.",
+            "about.fb.com"
+        ],
+        [
+            "Foxconn",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Foxconn_logo.svg/220px-Foxconn_logo.svg.png",
+            "20 February 1974",
+            "Terry Gou",
+            "Tucheng District, New Taipei, Taiwan",
+            "www.foxconn.com"
+        ],
+        [
+            "HP",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/120px-HP_logo_2012.svg.png",
+            "January 1, 1939",
+            "Bill Hewlett, David Packard[1]",
+            "Palo Alto, California, United States",
+            "www.hp.com"
+        ],
+        [
+            "Hitachi",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hitachi_Logo.svg/220px-Hitachi_Logo.svg.png",
+            "1910",
+            "Namihei Odaira",
+            "Marunouchi, Chiyoda-ku, Tokyo, Japan",
+            "www.hitachi.com"
+        ],
+        [
+            "Huawei",
+            "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Huawei_Standard_logo.svg/100px-Huawei_Standard_logo.svg.png",
+            "September 15, 1987",
+            "Ren Zhengfei",
+            "Shenzhen, China",
+            "www.huawei.com"
+        ],
+        [
+            "IBM",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/200px-IBM_logo.svg.png",
+            "June 16, 1911",
+            "Charles Ranlett Flint, Thomas J. Watson",
+            "Armonk, New York, U.S.",
+            "ibm.com"
+        ],
+        [
+            "Intel",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Intel_logo_%282020%2C_dark_blue%29.svg/165px-Intel_logo_%282020%2C_dark_blue%29.svg.png",
+            "July 18, 1968",
+            "Gordon Moore, Robert Noyce",
+            "Santa Clara, California, U.S.",
+            "intel.com"
+        ],
+        [
+            "LG Electronics",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LG_Electronics_logo_2015_%28english%29.svg/230px-LG_Electronics_logo_2015_%28english%29.svg.png",
+            "October 1958",
+            "Koo In-hwoi",
+            "L, G Twin Tower 128, Yeouido-dong, Yeongdeungpo District, Seoul, South Korea",
+            "lg.com"
+        ],
+        [
+            "Lenovo",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lenovo_logo_%282015_onwards%29_2.svg/220px-Lenovo_logo_%282015_onwards%29_2.svg.png",
+            "1 November 1984",
+            "Liu Chuanzhi",
+            "Beijing, China(global headquarters)[1][2] Hong Kong, China(legal domicile), Morrisville, North Carolina, U, S (operational headquarters)[3]",
+            "www.lenovo.com"
+        ],
+        [
+            "Microsoft",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/250px-Microsoft_logo_%282012%29.svg.png",
+            "April 4, 1975",
+            "Bill Gates, Paul Allen",
+            "One Microsoft Way, Redmond, Washington, U.S.",
+            "www.microsoft.com"
+        ],
+        [
+            "Panasonic",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Panasonic_logo.svg/220px-Panasonic_logo.svg.png",
+            "March 13, 1918",
+            "Konosuke Matsushita",
+            "Kadoma, Osaka, Japan",
+            "panasonic.com"
+        ],
+        [
+            "Samsung",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Samsung_wordmark.svg/220px-Samsung_wordmark.svg.png",
+            "1 March 1938",
+            "Lee Byung-chul",
+            "40th floor Samsung Electronics Building, 11, Seocho-daero 74-gil, Seocho District, Seoul, South Korea[1]",
+            "samsung.com"
+        ],
+        [
+            "Sony",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_logo.svg/220px-Sony_logo.svg.png",
+            "7 May 1946",
+            "Akio Morita Masaru Ibuka",
+            "Sony City, Minato, Tokyo, Japan",
+            "www.sony.net"
+        ]
+    ]
+}
