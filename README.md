@@ -35,4 +35,4 @@ Modules that may need to be imported/installed to run:
 ## Description
 This project uses a text retrieval method through Python's pandas & Selenium in order to gain information about the top companies in the technology industry. After retrieving that information, the Python file will generate a json file within the Angular project that will be read and displayed in the user interface. From the user interface, the user can search for technology companies by name.
 
-Please contact me for any assistance or comments. 
+Please contact me for any assistance or comments. (davidtt2@illinois.edu)
