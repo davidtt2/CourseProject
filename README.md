@@ -9,6 +9,8 @@ David Tan Sang Tran (davidtt2) { Individual Team }
 
 [David Tran Final Report and Documentation](https://github.com/davidtt2/CourseProject/blob/main/CS410%20Project%20Final%20Report.pdf)
 
+[Video](https://www.youtube.com/watch?v=mfuLOdaO55Q)
+
 ## How to Run
 1) Clone project (git clone https://github.com/davidtt2/CourseProject.git)
 2) Run "CS410 Project Data.py" (keep file structure unchanged)
